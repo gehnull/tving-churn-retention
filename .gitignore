@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Env
+.env
+.env.*
+
+# Node / Frontend
+node_modules/
+dashboard/node_modules/
+dist/
+build/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
